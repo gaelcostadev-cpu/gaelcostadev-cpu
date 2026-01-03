@@ -81,4 +81,7 @@ Vivência prática com design systems, autenticação JWT, modelagem de bancos d
     align="left" 
     alt="Git" 
     title="Git"
-    width="30
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
