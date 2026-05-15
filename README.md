@@ -6,9 +6,8 @@ Desenvolvedor Full Stack com experiência na construção de aplicações web es
 
 Vivência prática com design systems, autenticação JWT, modelagem de bancos de dados relacionais e não relacionais, e colaboração ágil (Scrum). Participação ativa em code reviews, planejamento de arquitetura e definição de padrões de código.
 
-LinkedIn: https://www.linkedin.com/in/gael-dev-005202409
-
-Site: https://www.gaelcosta.xyz/
+#### LinkedIn: https://www.linkedin.com/in/gael-dev-005202409
+#### Site: https://www.gaelcosta.xyz/
 ---
 
 ### 🤖 Linguagens e Tecnologias
