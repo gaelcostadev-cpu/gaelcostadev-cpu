@@ -87,3 +87,10 @@ Vivência prática com design systems, autenticação JWT, modelagem de bancos d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
+<br clear="all" />
+
+### 🏙️ Meu prédio no Git City
+
+[![Meu prédio no Git City](https://www.thegitcity.com/dev/gaelcostadev-cpu/opengraph-image?ef7ee3e5039521f9)](https://www.thegitcity.com/dev/gaelcostadev-cpu)
